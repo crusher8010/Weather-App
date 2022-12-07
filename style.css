@@ -131,8 +131,19 @@ main{
 
 .divider2{
     height: 5px;
-    width: 30%;
+    width: 50%;
     margin: 0 auto;
+}
+
+.cast-header2{
+    color: aliceblue;
+    background: rgba(254, 189, 132, 0.5);
+    width: max-content;
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 5px;
 }
 
 .forecastD{
